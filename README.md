@@ -16,10 +16,10 @@ This project analyzes HR data to identify factors behind employee attrition and 
 
 ## Tools & Techniques
 
-- Python, Pandas, Seaborn, Scikit-learn, XGBoost
+- Python, Pandas, Numpy, Seaborn, Scikit-learn, XGBoost
 - EDA, Chi-square test, Feature Engineering
-- Random Forest Classifier (Final model)
-- Accuracy ~88%
+- After Model Evaluation, the Random Forest model achieved AUC of 96.3%, precision of 98.4%, recall of 92.9%, f1-score of 95.6%, and accuracy of 98.6%, on the test set.
+- The random forest modestly outperformed then decision tree model and XGBoost model
 
 ## Recommendations
 
